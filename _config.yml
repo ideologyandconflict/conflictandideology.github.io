@@ -35,7 +35,7 @@ subtitle: CCHU9026
 description: >- # this means to ignore newlines until "baseurl:"
   This is the demo site for our common core project
   with a responsive site template Prologue.
-author: "Sheheryar, Don, KT and Mike"
+author: 
 email: "ideologyandconflict@gmail.com"
 avatar: assets/images/avatar.jpg
 
