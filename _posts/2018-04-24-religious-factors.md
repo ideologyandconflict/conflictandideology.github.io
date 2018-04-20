@@ -6,7 +6,9 @@ published: true
 ---
 ### -Religion itself may not be evil, but ISIS have manipulated quotes from the religious text.
 
+
 ### -How the ISIS use religion to justify/rationalize their violence(or other generally unaccepted behavior). Example of justifying violence: beheading, burning people alive; Quran, which is a critical religious text for Muslim, contains some 109 verses, if being “misinterpreted”, can become encouragement to believers to establish violent war against the non-believers
+
 
 ### Verse 1:
 _“…But if they should repent, **establish prayer, and give zakat**, let them [go] on their
