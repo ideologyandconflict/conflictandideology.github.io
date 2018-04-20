@@ -3,27 +3,46 @@ title: Third Post
 author: Resources
 layout: post
 icon: fa-lightbulb-o
+published: true
 ---
-See the icon?
+## 1. Political instability: (Competition between ISIS and Al Qaeda)
 
-Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.
+- ISIS expand his territory into Syria during the Syria War, but the movement of such did not consult the leader of Al-Nusra Front (JN), a division of Al Qaeda
 
-<span class="image left"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="" /></span>
+- ISIS leader announced the rivalry between ISIS and Al Qaeda, and a caliphate and they compete for the leadership of Jihadist Movement(Examples of rivalry)
 
-Pri id consul meliore luptatum, vix iudico impetus salutatus eu, duo at causae admodum complectitur. Qui eu salutandi dignissim, ea dictas audire commodo eos, vim cu autem dicam. Novum placerat moderatius sea ex, debet labitur reprehendunt mei ad. Tempor theophrastus et est, id tollit ponderum usu, at vis consul detraxit. Sit ut adhuc aeque.
+### Why are ISIS and Al Qaeda disputing each other?
+Tracing back to 2013, the leader of ISIS Abu Bakr al-Baghdadi notified that he was
+expanding the Islamic State of Iraq to Syria, without consulting Al-Nusra Front (JN)
+and Al Qaeda and transforming the group name to the Islamic State of Iraq and Al
+Sham, claiming that ISIS and Al-Nusra Front were in one body. This has triggered
+overwhelming hatred of Abu Muhammad al-Jawlani, the head of JN. Then he
+rejected the approach on Syria and declared his loyalty to Zawahiri, leader of Al
+Qaeda. Though Zawahiri made effort to demand ISIS to retreat from Syria, it ended
+in vein. Baghdadi even broadcasted a message that the rivalry between ISIS and Al
+Qaeda and would not follow any division, and eventually the two groups are
+separated. After Baghdadi detachment and announced a caliphate, the jihadist
+movement has turned in fractional, the two groups compete the leadership of the
+jihadist movement with each other.
 
-Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix illum vitae tation, solet oporteat complectitur at vel. Vim te simul eleifend, et per insolens conceptam, ad sint posidonium est. Ad vocent propriae principes duo.
+### The ways they behave violence between ISIS and Al Qaeda
+Al Qaeda launched enormous attacks in landmarks. The notorious example will be
+the attacked on the World Trade Center on 9/11. Driven by insanity, however, Al
+Qaeda would put a halt on murdering westerners when its goal is reached. For
+instance, Al Qaeda allowed western journalists to conduct interview with them, since
+Al Qaeda believe that terrorism would not function if it is not in the limelight. It
+hoped to spread its message to the globe. On the other hand, the ISIS emerged from
+civil war of Iraq and Syria. Using heavy and destructive weapons as a force is what they believe in to conquer or establish new Islamic world. They deem terrorism as a
+means, as war of revolution of religion and ideology.
 
-Audire periculis id vis, cum eu sonet option patrioque, his dicam sanctus imperdiet ad. Ad sonet dolorum est. Eu dolore adipisci volutpat mei, eu nec nisl molestiae. Usu ad veri omnesque pertinacia, duis scripserit ad nam. Quo id eligendi legendos.
+### Example of Competition between ISIS and Al Qaeda on a violence basis
+After the crisis of hotel in Mali launched by the Al Qaeda, in which 19 people were
+killed, there were aggressive debate between ISIS and Al Qaeda. Supporter of Al
+Qaeda suggested ISIS that might `learn a thing or two’ from the Mali Incident. Some
+said,` Allahu alam’, meaning that `God knows best’, and some commented ` they
+(ISIS) don’t operate in Mali, we know who operate there (Al Qaeda)’. All these
+sarcastic wordings induced ISIS momentum on violence, they could not be
+humiliated. Shortly after a week of the Mali Crisis, the ISIS attacked Paris where 130
+people were killed. This move has illustrated how fierce competition between two
+terrorist parties.
 
-Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nostrum ne, id eum hinc decore mediocrem. Mei feugiat habemus tincidunt ut, atqui detraxit ex usu. Vix ad commodo eripuit alienum, an has idque delicatissimi. Dolores reformidans mel ne, duis numquam disputando quo te.
-
-Eum eu tritani accusata qualisque, pro ei purto vocent. Vim in insolens hendrerit similique. Nobis munere antiopam ei vix. Cum no labore partiendo conceptam. Sea id vide viderer mandamus, magna posidonium nam at. Ad populo persius duo, vel audire detracto scribentur ut.
-
-Vim te fastidii sententiae. Vix ad facilis gloriatur, mei an diceret iracundia vituperatoribus. Iudico consetetur dissentiunt pri ut. Consul dictas pri ne. Nec an alia volumus scaevola, eos movet deleniti argumentum te. Latine abhorreant his ad, ut modus tempor euismod pri.
-
-Amet illum at sea, est autem fabulas eu, quod nonumes lobortis no sed. Has ei fugit adipisci reprimique. Enim tamquam ornatus pri ei. Alii harum invidunt nec ex, pri vidit latine ne. Has vocent nominati rationibus ad, ex partiendo prodesset moderatius has, vim quod paulo ad. Ex nec etiam electram, pri illud appetere eu.
-
-An nobis instructior eos, eam libris aperiam corrumpit ex. Case omnesque eu per. Et vix iisque tritani. Autem posidonium eu vis, sit et mutat brute. Usu ne postulant intellegat omittantur, mazim saperet adolescens mel at.
-
-Nam at velit percipit detraxit, quas modus mea ut. Ius an natum doctus vivendum. Quo at debet vidisse viderer, mollis eripuit ex nec. Sed ut choro saepe, sale augue sea et. His nemore dolorum mnesarchum at, ius an adipisci aliquando, laoreet placerat ea ius.
