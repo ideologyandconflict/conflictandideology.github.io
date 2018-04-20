@@ -62,6 +62,6 @@ Oil fields, taxation/extortion on people, kidnapping for ransom, wealthy donors,
 
 Dabiq (Magazine)
 
-![dt3.png](/assets/images/media.png)
+![dt3.png](/assets/images/media.PNG)
 
 Media (Al-Hayat Media Center)
