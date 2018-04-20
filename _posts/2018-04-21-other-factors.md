@@ -1,6 +1,6 @@
 ---
 title: Third Post
-author: Chris
+author: Resources
 layout: post
 icon: fa-lightbulb-o
 ---
