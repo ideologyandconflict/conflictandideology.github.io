@@ -1,5 +1,7 @@
 ---
 title: Comparison of Factors
+cover-photo: assets/images/compare.png
+cover-photo-alt: ISIS
 author: Resource
 layout: post
 published: true
