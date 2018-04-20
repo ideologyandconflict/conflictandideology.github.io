@@ -57,3 +57,11 @@ Oil fields, taxation/extortion on people, kidnapping for ransom, wealthy donors,
 - ISIS’s own media (Al-Hayat Media Center) and magazine(Dabiq). 
 - Social media: Facebook, Instagram and Twitter. 
 - Release of appealing videos to attract psychopaths.
+
+![dt3.jpg](/assets/images/dabiq.jpg)
+
+Dabiq (Magazine)
+
+![dt3.jpg](/assets/images/media.png)
+
+Media (Al-Hayat Media Center)
