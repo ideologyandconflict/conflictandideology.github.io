@@ -38,9 +38,9 @@ means, as war of revolution of religion and ideology.
 ### Example of Competition between ISIS and Al Qaeda on a violence basis
 After the crisis of hotel in Mali launched by the Al Qaeda, in which 19 people were
 killed, there were aggressive debate between ISIS and Al Qaeda. Supporter of Al
-Qaeda suggested ISIS that might `learn a thing or two’ from the Mali Incident. Some
-said,` Allahu alam’, meaning that `God knows best’, and some commented ` they
-(ISIS) don’t operate in Mali, we know who operate there (Al Qaeda)’. All these
+Qaeda suggested ISIS that might 'learn a thing or two' from the Mali Incident. Some
+said,' Allahu alam', meaning that 'God knows best', and some commented ' they
+(ISIS) don't operate in Mali, we know who operate there (Al Qaeda)'. All these
 sarcastic wordings induced ISIS momentum on violence, they could not be
 humiliated. Shortly after a week of the Mali Crisis, the ISIS attacked Paris where 130
 people were killed. This move has illustrated how fierce competition between two
