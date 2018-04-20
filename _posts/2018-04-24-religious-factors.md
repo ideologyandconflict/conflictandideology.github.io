@@ -2,23 +2,34 @@
 title: Religious Factors
 author: Resource
 layout: post
+published: true
 ---
-Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.
+-Religion itself may not be evil, but ISIS have manipulated quotes from the religious text.
+-How the ISIS use religion to justify/rationalize their violence(or other generally unaccepted behavior). Example of justifying violence: beheading, burning people alive; Quran, which is a critical religious text for Muslim, contains some 109 verses, if being “misinterpreted”, can become encouragement to believers to establish violent war against the non-believers
 
-Pri id consul meliore luptatum, vix iudico impetus salutatus eu, duo at causae admodum complectitur. Qui eu salutandi dignissim, ea dictas audire commodo eos, vim cu autem dicam. Novum placerat moderatius sea ex, debet labitur reprehendunt mei ad. Tempor theophrastus et est, id tollit ponderum usu, at vis consul detraxit. Sit ut adhuc aeque.
+### Verse 1: “…But if they should repent, **establish prayer, and give zakat**, let them [go] on their
+way. Indeed, Allah is Forgiving and Merciful.” (The Qur’an 9:5)
 
-Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix illum vitae tation, solet oporteat complectitur at vel. Vim te simul eleifend, et per insolens conceptam, ad sint posidonium est. Ad vocent propriae principes duo.
+### Verse 2: “**And if any one of the polytheists seeks your protection**, then grant him
+protection **so that he may hear the words of Allah**. Then deliver him to his place of
+safety. **That is because they are a people who do not know**.” (The Qur’an 9:6)
 
-Audire periculis id vis, cum eu sonet option patrioque, his dicam sanctus imperdiet ad. Ad sonet dolorum est. Eu dolore adipisci volutpat mei, eu nec nisl molestiae. Usu ad veri omnesque pertinacia, duis scripserit ad nam. Quo id eligendi legendos.
+### Verse 3: “How can there be for the polytheists a treaty in the sight of Allah and with His
+Messenger, except for those with whom you made a treaty at al-Masjid al-
+Haram? **So as long as they are upright toward you, be upright toward them.
+Indeed, Allah loves the righteous** [who fear Him].” (The Qur’an 9:7)
 
-Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nostrum ne, id eum hinc decore mediocrem. Mei feugiat habemus tincidunt ut, atqui detraxit ex usu. Vix ad commodo eripuit alienum, an has idque delicatissimi. Dolores reformidans mel ne, duis numquam disputando quo te.
+### Verse 4: “…So if they withdraw from you, and fight not against you, and offer you peace, then
+**Allah has opened no way for you against them**.”(The Qur’an 9:40)
 
-Eum eu tritani accusata qualisque, pro ei purto vocent. Vim in insolens hendrerit similique. Nobis munere antiopam ei vix. Cum no labore partiendo conceptam. Sea id vide viderer mandamus, magna posidonium nam at. Ad populo persius duo, vel audire detracto scribentur ut.
+### Verse 5: “But if they desist, then lo! **Allah is Forgiving, Merciful**. And fight them until
+persecution is no more, and religion is for Allah. But if they desist, then **let there be
+no hostility except against wrong-doers**.” (The Qur’an 2:192-193)
 
-Vim te fastidii sententiae. Vix ad facilis gloriatur, mei an diceret iracundia vituperatoribus. Iudico consetetur dissentiunt pri ut. Consul dictas pri ne. Nec an alia volumus scaevola, eos movet deleniti argumentum te. Latine abhorreant his ad, ut modus tempor euismod pri.
+In fact, the Qur’an do not suggest violence if peace can be brought instead. God is so
+benevolent that none of the non-Muslims should be killed because they may become a
+Muslin in the future, if they can live peacefully with Muslims (The Qur’an 9:5-6). It should be
+cited that God hopes that the hostility should be minimized and wars should end whenever
+possible (The Qur’an 2:193). The ideas of peace and forgiving should be consider before
+initiating wars and violence is conditional that should not be easily waged.
 
-Amet illum at sea, est autem fabulas eu, quod nonumes lobortis no sed. Has ei fugit adipisci reprimique. Enim tamquam ornatus pri ei. Alii harum invidunt nec ex, pri vidit latine ne. Has vocent nominati rationibus ad, ex partiendo prodesset moderatius has, vim quod paulo ad. Ex nec etiam electram, pri illud appetere eu.
-
-An nobis instructior eos, eam libris aperiam corrumpit ex. Case omnesque eu per. Et vix iisque tritani. Autem posidonium eu vis, sit et mutat brute. Usu ne postulant intellegat omittantur, mazim saperet adolescens mel at.
-
-Nam at velit percipit detraxit, quas modus mea ut. Ius an natum doctus vivendum. Quo at debet vidisse viderer, mollis eripuit ex nec. Sed ut choro saepe, sale augue sea et. His nemore dolorum mnesarchum at, ius an adipisci aliquando, laoreet placerat ea ius.
