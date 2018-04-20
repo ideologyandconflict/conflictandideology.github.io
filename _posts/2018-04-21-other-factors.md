@@ -1,5 +1,5 @@
 ---
-title: Third Post
+title: Other Factors
 author: Resources
 layout: post
 icon: fa-lightbulb-o
