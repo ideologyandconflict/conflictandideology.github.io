@@ -1,5 +1,7 @@
 ---
 title: Other Factors
+cover-photo: assets/images/religious.jpg
+cover-photo-alt: ISIS
 author: Resources
 layout: post
 icon: fa-lightbulb-o
