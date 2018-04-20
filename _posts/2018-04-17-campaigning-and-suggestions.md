@@ -7,8 +7,8 @@ published: true
 ## How could we stop the future outbreak of war cause by this ideology?
 
  <!-- Table -->
-	<h2>Table</h2>
-	<div class="table-wrapper">
+ 
+<div class="table-wrapper">
 		<table>
 			<thead>
 				<tr>
@@ -44,6 +44,4 @@ published: true
 				</tr>
 			</tfoot>
 		</table>
-	</div>
-	
-<hr />
+</div>
