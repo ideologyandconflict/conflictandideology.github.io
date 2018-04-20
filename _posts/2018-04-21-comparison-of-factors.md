@@ -1,5 +1,5 @@
 ---
-title: Second Post
+title: Comparison of Factors
 author: Chris
 layout: post
 ---
