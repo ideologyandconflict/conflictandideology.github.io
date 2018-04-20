@@ -1,6 +1,6 @@
 ---
 title: Comparison of Factors
-author: Chris
+author: Resource
 layout: post
 ---
 
