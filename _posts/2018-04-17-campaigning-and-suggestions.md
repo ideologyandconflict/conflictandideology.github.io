@@ -1,5 +1,7 @@
 ---
 title: What's Next? (Campaigning and Suggestions)
+cover-photo: assets/images/qm.jpg
+cover-photo-alt: ISIS
 author: Resource
 layout: post
 published: true
