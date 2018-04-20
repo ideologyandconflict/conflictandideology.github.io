@@ -6,9 +6,7 @@ published: true
 ---
 ## How could we stop the future outbreak of war cause by this ideology?
 
- <!-- Table -->
- 
-<div class="table-wrapper">
+ <!-- <div class="table-wrapper">
 		<table>
 			<thead>
 				<tr>
@@ -18,11 +16,11 @@ published: true
 			</thead>
 			<tbody>
 				<tr>
-					<td>Item 1</td>
+					<td>1. Minimizing undesirable setting (i.e. poverty, lack of political freedom)</td>
 					<td>Ante turpis integer aliquet porttitor.</td>
 				</tr>
 				<tr>
-					<td>Item 2</td>
+					<td>Preventing Step up anti-Muslim measures/rhetoric </td>
 					<td>Vis ac commodo adipiscing arcu aliquet.</td>
 				</tr>
 				<tr>
@@ -45,3 +43,4 @@ published: true
 			</tfoot>
 		</table>
 </div>
+-->
