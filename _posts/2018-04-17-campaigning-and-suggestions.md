@@ -6,6 +6,8 @@ published: true
 ---
 ## How could we stop the future outbreak of war cause by this ideology?
 
+![dt3.png](/assets/images/solutions.png)
+
  <!-- <div class="table-wrapper">
 		<table>
 			<thead>
