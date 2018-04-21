@@ -8,8 +8,11 @@ published: true
 ---
 ## How could we stop the future outbreak of war cause by this ideology?
 
+<body background="/assets/images/solutions.png">
+
 ![dt3.png](/assets/images/solutions.png)
 
+</body>
  <!-- <div class="table-wrapper">
 		<table>
 			<thead>
