@@ -11,8 +11,6 @@ published: true
 ![dt3.png](/assets/images/solutions.png)
 
 
-<body background="ideologyandconflict.github.io/assets/images/ISIS.jpg">
-</body>
  <!-- <div class="table-wrapper">
 		<table>
 			<thead>
