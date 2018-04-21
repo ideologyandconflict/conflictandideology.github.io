@@ -2,7 +2,7 @@
 layout: default
 ---
 {%- include header.html -%}
-{%- include section.html photo=_page.cover-photo photo-alt=_page.cover-photo-alt -%}
+
 
 <!-- Main -->
 <div id="main">
@@ -14,6 +14,7 @@ layout: default
 				{%- if page.subtitle -%}<p>{{- page.subtitle -}}</p>{%- endif -%}
 			</header>
 	    {{- content -}}
+            {%- include section.html photo=_page.cover-photo photo-alt=_page.cover-photo-alt -%}
 	  </div>
 	</article>
 </div>
