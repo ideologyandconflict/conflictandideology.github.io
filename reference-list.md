@@ -1,5 +1,7 @@
 ---
 title: Reference List
+cover-photo: assets/images/religious.jpg
+cover-photo-alt: ISIS
 subtitle: Here is the Bibliography of our works
 layout: "page"
 icon: fa-book
