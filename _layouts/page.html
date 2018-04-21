@@ -5,11 +5,8 @@ layout: default
 
 
 <!-- Main -->
-<!--
 <div id="main">
--->
 	<!-- Page -->
-<!--
 	<article class="shade-two">
 	  <div class="container">
 			<header>
@@ -19,20 +16,6 @@ layout: default
 	    {{- content -}}
 	  </div>
 	</article>
+	{%- include section.html title=_title subtitle=_subtitle content=_content photo=_page.cover-photo photo-alt=_page.cover-photo-alt -%}
 </div>
--->
 
-<div id="main">
-	<!-- Page -->
-	<article class="shade-two">
-	  <div class="container">
-			<header>
-				<h2>{{- page.title -}}</h2>
-				{%- if page.subtitle -%}<p>{{- page.subtitle -}}</p>{%- endif -%}
-			</header>
-		  <body background="{{- page.cover-photo -}}">
-	    {{- content -}}
-		  </body>
-	  </div>
-	</article>
-</div>
