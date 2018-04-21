@@ -43,3 +43,6 @@ Why ISIS is a threat to Saudi Arabia: Wahhabism's deferred promise. (n.d.). Retr
 
 Sorensen, J. (2015). How to tell the difference between ISIS and Muslims [Comic]. Retrieved from https://splinternews.com/how-to-tell-the-difference-between-isis-and-muslims-1793890605
 
+Omar, A. Rashied(2017) From Islam and Violence Revisited. Journal of Ecumenical Studies. Vol. 52(1), 67-78
+
+Cook, David (2009) Islamism and Jihadism: The Transformation of Classical Notions of Jihad into an Ideology of Terrorism. Totalitarian Movements and Political Religions, Vol. 10(2), 177–187
