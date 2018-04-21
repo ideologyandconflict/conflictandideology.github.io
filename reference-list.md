@@ -29,9 +29,9 @@ Searcey, D., & Nossiter, A. (2015, November 20). Deadly Siege Ends After Assault
 
 Swanson, A. (2015, November 18). How the Islamic State makes its money. Retrieved February 19, 2018, from https://www.washingtonpost.com/news/wonk/wp/2015/11/18/how-isis-makes-its-money/?utm_term=.1e46be296ebc
 
-Islamic State and the policy of the West | OrientalReview.org. (2014, September 23). Retrieved from http://orientalreview.org/2014/09/23/islamic-state-and-the-policy-of-the-west/
+Islamic State and the policy of the West '|' OrientalReview.org. (2014, September 23). Retrieved from http://orientalreview.org/2014/09/23/islamic-state-and-the-policy-of-the-west/
 
-Islamic State and the policy of the West | OrientalReview.org. (2014, September 23). Retrieved from http://orientalreview.org/2014/09/23/islamic-state-and-the-policy-of-the-west
+Islamic State and the policy of the West - OrientalReview.org. (2014, September 23). Retrieved from http://orientalreview.org/2014/09/23/islamic-state-and-the-policy-of-the-west
 
 Richard Allen Greene and Nick Thompson. Graphics by Sean O'Key, CNN. (2016, August 11). ISIS: Everything you need to know. Retrieved from https://edition.cnn.com/2015/01/14/world/isis-everything-you-need-to-know/index.html
 
