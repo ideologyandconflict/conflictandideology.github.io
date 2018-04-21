@@ -12,7 +12,6 @@ published: true
 
 
 <body background="/assets/images/solutions.png">
-	<p>Check</p>
 </body>
  <!-- <div class="table-wrapper">
 		<table>
