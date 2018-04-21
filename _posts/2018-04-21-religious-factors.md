@@ -36,10 +36,10 @@ _“But if they desist, then lo! **Allah is Forgiving, Merciful**. And fight th
 persecution is no more, and religion is for Allah. But if they desist, then **let there be
 no hostility except against wrong-doers**.” (The Qur’an 2:192-193)_
 
-In fact, the Qur’an do not suggest violence if peace can be brought instead. God is so
+**In fact, the Qur’an do not suggest violence if peace can be brought instead. God is so
 benevolent that none of the non-Muslims should be killed because they may become a
 Muslin in the future, if they can live peacefully with Muslims (The Qur’an 9:5-6). It should be
 cited that God hopes that the hostility should be minimized and wars should end whenever
 possible (The Qur’an 2:193). The ideas of peace and forgiving should be consider before
-initiating wars and violence is conditional that should not be easily waged.
+initiating wars and violence is conditional that should not be easily waged.**
 
