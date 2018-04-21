@@ -28,5 +28,16 @@ MacFarquhar, A. B. (2015, November 20). Paris and Mali Attacks Expose Lethal Qae
 Searcey, D., & Nossiter, A. (2015, November 20). Deadly Siege Ends After Assault on Hotel in Mali. Retrieved February 19, 2018, from https://www.nytimes.com/2015/11/21/world/africa/mali-hotel-attack-radisson.html
 
 Swanson, A. (2015, November 18). How the Islamic State makes its money. Retrieved February 19, 2018, from https://www.washingtonpost.com/news/wonk/wp/2015/11/18/how-isis-makes-its-money/?utm_term=.1e46be296ebc
- 
+
+Islamic State and the policy of the West | OrientalReview.org. (2014, September 23). Retrieved from http://orientalreview.org/2014/09/23/islamic-state-and-the-policy-of-the-west/
+
+Islamic State and the policy of the West | OrientalReview.org. (2014, September 23). Retrieved from http://orientalreview.org/2014/09/23/islamic-state-and-the-policy-of-the-west
+
+Richard Allen Greene and Nick Thompson. Graphics by Sean O'Key, CNN. (2016, August 11). ISIS: Everything you need to know. Retrieved from https://edition.cnn.com/2015/01/14/world/isis-everything-you-need-to-know/index.html
+
+What is ISIS? Key facts about the Islamic State. (2018, April 18). Retrieved from https://www.nbcnews.com/storyline/isis-uncovered/what-isis-what-you-need-know-about-islamic-state-iraq-n859996
+
+Why ISIS is a threat to Saudi Arabia: Wahhabism's deferred promise. (n.d.). Retrieved from https://english.al-akhbar.com/node/21234
+
+Sorensen, J. (2015). How to tell the difference between ISIS and Muslims [Comic]. Retrieved from https://splinternews.com/how-to-tell-the-difference-between-isis-and-muslims-1793890605
 
