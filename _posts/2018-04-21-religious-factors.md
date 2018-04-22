@@ -44,9 +44,11 @@ possible (The Qur’an 2:193). The ideas of peace and forgiving should be consid
 initiating wars and violence is conditional that should not be easily waged.**
 
 <div>
-## h1.title:hover + .ps {
+ <style>
+   h1.title:hover + .ps {
    visibility: visible;
   }
+</style>
  <body style="font-family:'Myriad Pro' ">
  <div class="title">
     <h1 class="title">Random Thing</h1>
