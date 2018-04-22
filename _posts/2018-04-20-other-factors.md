@@ -13,6 +13,26 @@ published: true
 
 - ISIS leader announced the rivalry between ISIS and Al Qaeda, and a caliphate and they compete for the leadership of Jihadist Movement(Examples of rivalry)
 
+### What is the philosophy of Al Qaeda?
+Al Qaeda put emphasis on combating the distanced enemy `USA’, since it reckons
+the US is a repressive regime within the Muslim kingdom. Moreover, the extreme
+target of Al Qaeda is to remove spoiled `apostate’ powers in the Middle East and
+substitute them with real Islamic governments. Why would Al Qaeda strategy
+approach on the US? It is because the US Government constantly give financial and
+military aids to incapable rulers in the Middle East, such as the head of Saudi Arabia
+and Egypt. Al Qaeda uses terrorism to excite Muslims to follow its belief. Only if the
+US retreat its dominance or influence, the regimes in Middle East would be fragile
+enough to be overthrown.
+
+### What is the doctrine of ISIS?
+Unlike Al Qaeda, it does not primarily focus on the far enemies, but rather the
+`surrounding enemy’ in terms of a regional level. It hopes to resist the betrayers in
+the Arab Kingdom, such as the Assad regime in Syria and Abadi regime in Iraq. ISIS
+strike to construct an Islamic state to fulfil its ideology: Establishing a government in
+which Muslims could exist under the law of Islam. Only when found an Islamic
+Kingdom, Muslims can be attracted to join the ideology. Only by capturing more
+lands, it can develop a powerful army for engulfing more territories.
+
 ### Why are ISIS and Al Qaeda disputing each other?
 Tracing back to 2013, the leader of ISIS Abu Bakr al-Baghdadi notified that he was
 expanding the Islamic State of Iraq to Syria, without consulting Al-Nusra Front (JN)
