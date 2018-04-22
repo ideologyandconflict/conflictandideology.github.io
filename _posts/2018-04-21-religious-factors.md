@@ -6,42 +6,27 @@ author: Resource
 layout: post
 published: true
 ---
-### -Religion itself may not be evil, but ISIS have manipulated quotes from the religious text.
+## How ISIS rationalize their violence using religion?
+
+### 1. THE POWER OF RELIGION: PROVIDE JUSTIFICATION
+“Only religious faith is a strong enough force to motivate such utter madness in otherwise sane and decent people (Dawkins, 2006)”
+-Richard Dawkins, Author of “The God Delusion”
+
+### 2. QURAN contains verses that has to be understood under certain context; failure to know the history behind will lead to misconception/ misinterpretation
+“A majority of Muslims claim to understand Islam, and in trying to do so, they have divided themselves into more than 73 divisions (AlGohar, 2017).”
+-Younus AlGohar, Author of Mysterious Horizons – Beyond God
+
+### 3. ISIS deliberately manipulated some quotes, so as to justify their actions
+“ISIS utilizes every opportunity to manipulate information for their own benefit (Ali, 2015).”
+-Mah-Rukh Ali, Author of “The threat from IS”, 2015
+
+_When the [four] forbidden months are over, wherever you encounter the idolaters, kill them, seize them, besiege them, wait for them at every lookout post; but if they turn [to God], maintain the prayer, and pay the prescribed alms, let them go on their way, for God is most forgiving and merciful.  (Qu’ran 9:5)_
+
+### 4. Together with the power of religion’s justification, Mujahids now equipped with moral licenses and are ready to carry out sacred mission, and execute religious violence
+“...[ISIS] can justify their acts by citing the Quran, then it becomes easier for them as it adds moral and religious immunity and they avoid condemnation (Freamon, 2015)” 
+Bernard K. Freamon, Professor of Law at Seton Hall University 
 
 
-### -How the ISIS use religion to justify/rationalize their violence(or other generally unaccepted behavior). Example of justifying violence: beheading, burning people alive; Quran, which is a critical religious text for Muslim, contains some 109 verses, if being “misinterpreted”, can become encouragement to believers to establish violent war against the non-believers
-
-
-### Verse 1:
-_“…But if they should repent, **establish prayer, and give zakat**, let them [go] on their
-way. Indeed, Allah is Forgiving and Merciful.” (The Qur’an 9:5)_
-
-### Verse 2:
-_“**And if any one of the polytheists seeks your protection**, then grant him
-protection **so that he may hear the words of Allah**. Then deliver him to his place of
-safety. **That is because they are a people who do not know**.” (The Qur’an 9:6)_
-
-### Verse 3:
-_“How can there be for the polytheists a treaty in the sight of Allah and with His
-Messenger, except for those with whom you made a treaty at al-Masjid al-
-Haram? **So as long as they are upright toward you, be upright toward them.
-Indeed, Allah loves the righteous** [who fear Him].” (The Qur’an 9:7)_
-
-### Verse 4: 
-_“…So if they withdraw from you, and fight not against you, and offer you peace, then
-**Allah has opened no way for you against them**.”(The Qur’an 9:40)_
-
-### Verse 5: 
-_“But if they desist, then lo! **Allah is Forgiving, Merciful**. And fight them until
-persecution is no more, and religion is for Allah. But if they desist, then **let there be
-no hostility except against wrong-doers**.” (The Qur’an 2:192-193)_
-
-**In fact, the Qur’an do not suggest violence if peace can be brought instead. God is so
-benevolent that none of the non-Muslims should be killed because they may become a
-Muslin in the future, if they can live peacefully with Muslims (The Qur’an 9:5-6). It should be
-cited that God hopes that the hostility should be minimized and wars should end whenever
-possible (The Qur’an 2:193). The ideas of peace and forgiving should be consider before
-initiating wars and violence is conditional that should not be easily waged.**
-
-
+### 5. In short, “Customized” Religious ideology LEGITIMIZES ISIS’s violence, though it doesn’t cause it
+“It’s not ISIS’s interpretation of Islamic texts that drives its brutality—it’s the group’s desired brutality driving its interpretation of the texts (Mogahed, as cited in Cottee, 2016).” 
 
