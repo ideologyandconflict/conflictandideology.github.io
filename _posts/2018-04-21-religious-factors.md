@@ -8,6 +8,7 @@ published: true
 ---
 ## How ISIS rationalize their violence using religion?
 
+![dt3.jpg](/assets/images/info.jpg)
 
 
 ### 1. THE POWER OF RELIGION: PROVIDE JUSTIFICATION
