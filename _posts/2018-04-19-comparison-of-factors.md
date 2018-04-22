@@ -19,4 +19,4 @@ published: true
 
 - In terms of sustaining factors, Religion is the strongest factor in sustaining & intensifying conflicts, since it was an encouragement & justifications for their violent acts(i. e. a strong fuel to persist chaos)
 
-![dt3.jpg](/assets/images/sustainabe.jpg)
+![dt3.jpg](/assets/images/sustainable.jpg)
