@@ -8,6 +8,8 @@ published: true
 ---
 ## How ISIS rationalize their violence using religion?
 
+
+
 ### 1. THE POWER OF RELIGION: PROVIDE JUSTIFICATION
 “Only religious faith is a strong enough force to motivate such utter madness in otherwise sane and decent people (Dawkins, 2006)”
 -Richard Dawkins, Author of “The God Delusion”
