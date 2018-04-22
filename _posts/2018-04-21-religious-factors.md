@@ -43,19 +43,5 @@ cited that God hopes that the hostility should be minimized and wars should end 
 possible (The Qur’an 2:193). The ideas of peace and forgiving should be consider before
 initiating wars and violence is conditional that should not be easily waged.**
 
-<div>
- <style>
-   h1.title:hover + .ps {
-   visibility: visible;
-  }
-</style>
- <body style="font-family:'Myriad Pro' ">
- <div class="title">
-    <h1 class="title">Random Thing</h1>
-    <h3 class="ps">Playing around in HTML!</h3>
- </div>
- </body>
-</div>
-
 
 
