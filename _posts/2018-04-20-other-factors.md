@@ -7,11 +7,17 @@ layout: post
 icon: fa-lightbulb-o
 published: true
 ---
-## 1. Political instability: (Competition between ISIS and Al Qaeda)
+## 1. Political instability: 
 
-- ISIS expand his territory into Syria during the Syria War, but the movement of such did not consult the leader of Al-Nusra Front (JN), a division of Al Qaeda
+Iraq and Syria had severe bad political instability, ISIS uses its opportunistic ways to engulf the chaotic regions, and slowly develops into terrorism.
 
-- ISIS leader announced the rivalry between ISIS and Al Qaeda, and a caliphate and they compete for the leadership of Jihadist Movement(Examples of rivalry)
+Considering Syria, the unrest was triggered by "Arab Spring" incident. Many citizens were in opposition to the regime under president Assad. Confrontation between government and military opposition is taking place.
+
+The UN force accompanied by Britain and France entered the regional crisis in 2013. Until 2015, Russia claimed to devastate ISIS but actually striking anti-Assad camp secretly. And the US President Donald Trump launched a missile attack on an airbase due to the fact that storage of chemical weapons by Syrian government air force and start her journey in this messy crisis. 
+
+The separated actions of different nation escalate the situation, and since the state was out of dominating ruling power and lacked national defense. ISIS declared "caliphate" ranging from Aleppo to eastern Iraqi province of Diyala in June 2014.
+
+## 2. Rivalry between ISIS and Al-Qaeda: 
 
 ### What is the philosophy of Al Qaeda?
 Al Qaeda put emphasis on combating the distanced enemy 'USA', since it reckons
@@ -72,6 +78,8 @@ terrorist parties.
 
 ### How do ISIS obtain constant funding to sustain the war?
 Oil fields, taxation/extortion on people, kidnapping for ransom, wealthy donors, sales of antiquities, Seization of Iraqi bank, sales of other looted property, real estate, agriculture etc.
+
+![dt3.jpg](/assets/images/factors.jpg)
 
 ## 3. Human Capital: 
 - Foreign fighters and educated people: Doctors, Lawyers, Military generals, etc. 
