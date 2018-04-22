@@ -74,14 +74,14 @@ humiliated. Shortly after a week of the Mali Crisis, the ISIS attacked Paris whe
 people were killed. This move has illustrated how fierce competition between two
 terrorist parties.
 
-## 2. Economic factors:
+## 3. Economic factors:
 
 ### How do ISIS obtain constant funding to sustain the war?
 Oil fields, taxation/extortion on people, kidnapping for ransom, wealthy donors, sales of antiquities, Seization of Iraqi bank, sales of other looted property, real estate, agriculture etc.
 
 ![dt3.jpg](/assets/images/factors.jpg)
 
-## 3. Human Capital: 
+## 4. Human Capital: 
 - Foreign fighters and educated people: Doctors, Lawyers, Military generals, etc. 
 - ISIS gives high pays and incentives to its employees. 
 - ISIS’s own media (Al-Hayat Media Center) and magazine(Dabiq). 
