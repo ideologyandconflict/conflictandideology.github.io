@@ -45,22 +45,18 @@ initiating wars and violence is conditional that should not be easily waged.**
 
 <!DOCTYPE html>
 <html> 
-  
 <style>
-h1.title:hover + .ps {
-  visibility: visible;
-}
+  
+  h1.title:hover + .ps {
+   visibility: visible;
+  }
 </style>
-
-
-
-
-<body style="font-family:'Myriad Pro' ">
-<div class="title">
+ <body style="font-family:'Myriad Pro' ">
+ <div class="title">
     <h1 class="title">Random Thing</h1>
     <h3 class="ps">Playing around in HTML!</h3>
-</div>
-</body>
+ </div>
+ </body>
 
 </html>
 
