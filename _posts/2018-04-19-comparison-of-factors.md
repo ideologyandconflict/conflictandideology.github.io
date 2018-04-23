@@ -3,8 +3,8 @@ title: Comparison of Factors
 cover-photo: assets/images/compare.png
 cover-photo-alt: ISIS
 author: Resource
-icon: fa fa-compress
 layout: post
+icon: fa fa-compress
 published: true
 ---
 ## Factors can be further classified into two categories:
