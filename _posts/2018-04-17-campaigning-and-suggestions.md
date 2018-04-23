@@ -4,7 +4,7 @@ cover-photo: assets/images/qms.jpg
 cover-photo-alt: ISIS
 author: Resource
 layout: post
-icon: fab fa-resolving
+icon: fa-resolving
 published: true
 ---
 ## How could we stop the future outbreak of war cause by this ideology?
