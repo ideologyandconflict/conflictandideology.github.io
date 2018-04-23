@@ -3,6 +3,7 @@ title: Comparison of Factors
 cover-photo: assets/images/compare.png
 cover-photo-alt: ISIS
 author: Resource
+icon: fa-compress-alt
 layout: post
 published: true
 ---
