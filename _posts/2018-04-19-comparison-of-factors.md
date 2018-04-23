@@ -4,7 +4,7 @@ cover-photo: assets/images/compare.png
 cover-photo-alt: ISIS
 author: Resource
 layout: post
-icon: fa fa-compress
+icon: fa-compress
 published: true
 ---
 ## Factors can be further classified into two categories:
